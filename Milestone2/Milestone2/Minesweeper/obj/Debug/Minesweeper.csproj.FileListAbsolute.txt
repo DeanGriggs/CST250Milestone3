@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\CST-250\Week 2\Milestone2\Milestone2\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\User\Desktop\CST-250\Week 2\Milestone2\Milestone2\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\User\Desktop\CST-250\Week 2\Milestone2\Milestone2\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\User\Desktop\CST-250\Week 2\Milestone2\Milestone2\Minesweeper\obj\Debug\Minesweeper.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CST-250\Week 2\Milestone2\Milestone2\Minesweeper\obj\Debug\Minesweeper.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\CST-250\Week 2\Milestone2\Milestone2\Minesweeper\obj\Debug\Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CST-250\Week 2\Milestone2\Milestone2\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\User\Desktop\CST-250\Week 2\Milestone2\Milestone2\Minesweeper\obj\Debug\Minesweeper.pdb
